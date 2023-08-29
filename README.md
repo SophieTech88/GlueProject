@@ -5,7 +5,7 @@
 
 3. Create catalog database
 
-4.Grant the permissio to database and table in Lake Formation
+4. Grant the permissio to database and table in Lake Formation
 
 5. create table using crawler
 - s3 bucket
